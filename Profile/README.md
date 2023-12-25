@@ -2,7 +2,7 @@
 
 <a href="https://likelion-11th-skhu.github.io/">
 
-![home](https://img.shields.io/badge/Home-LikeLion11th-orange)
+![home](https://img.shields.io/badge/Home-LikeLion12th-orange)
 
 </a>
 
