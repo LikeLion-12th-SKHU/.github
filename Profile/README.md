@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://likelion-11th-skhu.github.io/">
+<a href="https://likelion-12th-skhu.github.io/recruit_page_fe/">
 
 ![home](https://img.shields.io/badge/Home-LikeLion12th-orange)
 
