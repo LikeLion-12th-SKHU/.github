@@ -32,7 +32,7 @@
 | :---------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/SuKyeong2002.png" width="150"> | <img src="https://github.com/ttttkii913.png" width="150"> | <img src="https://github.com/dbsgustmd.png" width="150"> | <img src="https://github.com/leeseoyoung05.png" width="150"> | <img src="https://github.com/seulah03.png" width="150"> |
 
-|          [이승현]()          |          [이예은](https://github.com/eunxeum)          |          [이유림](https://github.com/mosiragora)          |          [정다연](https://github.com/firefox1234123)          |          [정희서](https://github.com/hs0333)          |
+|          [이승현](https://github.com/shlee5002)          |          [이예은](https://github.com/eunxeum)          |          [이유림](https://github.com/mosiragora)          |          [정다연](https://github.com/firefox1234123)          |          [정희서](https://github.com/hs0333)          |
 | :---------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/eunxeum.png" width="150"> | <img src="https://github.com/eunxeum.png" width="150"> | <img src="https://github.com/mosiragora.png" width="150"> | <img src="https://github.com/firefox1234123.png" width="150"> | <img src="https://github.com/hs0333.png" width="150"> |
 
