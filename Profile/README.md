@@ -6,7 +6,7 @@
 
 </a>
 
-</div>
+
 
 ---
 
@@ -28,14 +28,17 @@
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------------: |
 | <img src="https://github.com/yeonja23.png" width="150"> | <img src="https://github.com/yengniws.png" width="150"> | <img src="https://github.com/shtfh.png" width="150"> | <img src="https://github.com/rryuuni.png" width="150"> | <img src="https://github.com/SuKyeong2002.png" width="150"> |
 
-|          [유하영](https://github.com/ttttkii913)          |          [윤현승](https://github.com/dbsgustmd)          |          [이서영](https://github.com/leeseoyoung05)          |          [이슬아](https://github.com/seulah03)          |          [이승현](https://github.com/shlee5002)          |
-| :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: |
-| <img src="https://github.com/ttttkii913.png" width="150"> | <img src="https://github.com/dbsgustmd.png" width="150"> | <img src="https://github.com/leeseoyoung05.png" width="150"> | <img src="https://github.com/seulah03.png" width="150"> | <img src="https://github.com/shlee5002.png" width="150"> |
+|          [유하영](https://github.com/ttttkii913)          |          [윤현승](https://github.com/dbsgustmd)          |          [이슬아](https://github.com/seulah03)          |          [이승현](https://github.com/shlee5002)          |          [이예은](https://github.com/eunxeum)          |
+| :-------------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: |
+| <img src="https://github.com/ttttkii913.png" width="150"> | <img src="https://github.com/dbsgustmd.png" width="150"> | <img src="https://github.com/seulah03.png" width="150"> | <img src="https://github.com/shlee5002.png" width="150"> | <img src="https://github.com/eunxeum.png" width="150"> |
 
-|          [이예은](https://github.com/eunxeum)          |          [이유림](https://github.com/mosiragora)          |          [정다연](https://github.com/firefox1234123)          |          [정희서](https://github.com/hs0333)          |          [조규림](https://github.com/ckr8305)          |
-| :----------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------: |
-| <img src="https://github.com/eunxeum.png" width="150"> | <img src="https://github.com/mosiragora.png" width="150"> | <img src="https://github.com/firefox1234123.png" width="150"> | <img src="https://github.com/hs0333.png" width="150"> | <img src="https://github.com/ckr8305.png" width="150"> |
+|          [이유림](https://github.com/mosiragora)          |          [정다연](https://github.com/firefox1234123)          |          [정희서](https://github.com/hs0333)          |          [조규림](https://github.com/ckr8305)          |          [조서윤](https://github.com/seoyunv)          |
+| :-------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+| <img src="https://github.com/mosiragora.png" width="150"> | <img src="https://github.com/firefox1234123.png" width="150"> | <img src="https://github.com/hs0333.png" width="150"> | <img src="https://github.com/ckr8305.png" width="150"> | <img src="https://github.com/seoyunv.png" width="150"> |
 
-|          [조서윤](https://github.com/seoyunv)          |          [조성수](https://github.com/Sungpie)          |          [지정욱](https://github.com/dkdpawjddnr)          |          [한장수](https://github.com/AWESOMEGUY5)          |          [홍경욱](https://github.com/kyxnguk)          |
-| :----------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------: |
-| <img src="https://github.com/seoyunv.png" width="150"> | <img src="https://github.com/Sungpie.png" width="150"> | <img src="https://github.com/dkdpawjddnr.png" width="150"> | <img src="https://github.com/AWESOMEGUY5.png" width="150"> | <img src="https://github.com/kyxnguk.png" width="150"> |
+|          [조성수](https://github.com/Sungpie)          |          [지정욱](https://github.com/dkdpawjddnr)          |          [한장수](https://github.com/AWESOMEGUY5)          |          [홍경욱](https://github.com/kyxnguk)          |
+| :----------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------: |
+| <img src="https://github.com/Sungpie.png" width="150"> | <img src="https://github.com/dkdpawjddnr.png" width="150"> | <img src="https://github.com/AWESOMEGUY5.png" width="150"> | <img src="https://github.com/kyxnguk.png" width="150"> |
+
+
+</div>
